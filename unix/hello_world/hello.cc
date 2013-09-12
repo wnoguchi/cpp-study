@@ -5,7 +5,7 @@ using namespace std;
 // Hello Worldコンソールアプリケーション
 int main()
 {
-  cout << "hwllo, world." << endl;
+  cout << "hello, world." << endl;
 
   return 0;
 }

@@ -5,5 +5,5 @@ Macで。
 ```
 $ g++ hello.cc 
 $ ./a.out 
-hwllo, world.
+hello, world.
 ```
